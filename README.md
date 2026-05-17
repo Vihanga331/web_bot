@@ -3,7 +3,7 @@
 ### This bot can gather data from websites and analyze them.
 
 ### Future Updates
-    * Add exel automation tools to auto generate exel sheets with AI
+    * Add excel automation tools to auto generate exel sheets with AI
     * Add automated workflow to work with exel and google sheets
     * Add real API to scan webpages and extract contents for reasearch and related tasks
     * Send reports to telegram via bot.
