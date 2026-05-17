@@ -1,1 +1,0 @@
-DNA, or deoxyribonucleic acid, is a molecule that carries the genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses. It is a double helix structure made up of nucleotides, which contain a sugar, a phosphate group, and a nitrogenous base.
