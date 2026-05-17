@@ -8,8 +8,8 @@ first commit
 ```mermaid
 graph TD
     %% Nodes definition
-    WP1[webpage 1]
-    WP2[webpage 2]
+    WP1[wikipedia.org]
+    WP2[news.blog]
     API[API]
     Skill[Skill]
     Agent[The Agent]
